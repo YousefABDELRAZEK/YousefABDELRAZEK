@@ -42,8 +42,7 @@
 <hr/>
 
 <div align="center">
-    ![Snake animation](https://github.com/YoussefSWE/YoussefSWE/blob/output/github-contribution-grid-snake.svg)
-
+    
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://github.com/YousefABDELRAZEK/YousefABDELRAZEK/blob/output/github-contribution-grid-snake.svg" />
@@ -67,3 +66,5 @@
 <hr/>
 
 <br/>
+![Snake animation](https://github.com/YoussefSWE/YoussefSWE/blob/output/github-contribution-grid-snake.svg)
+
