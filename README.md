@@ -49,7 +49,6 @@
   <br/><br/><br/>
 </div>
 
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -66,5 +65,4 @@
 <hr/>
 
 <br/>
-![Snake animation](https://github.com/YoussefSWE/YoussefSWE/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/YousefABDELRAZEK/YousefABDELRAZEK/blob/output/github-contribution-grid-snake.svg)
