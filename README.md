@@ -10,9 +10,8 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a social media plateform**
  
- 🌱 I’m currently learning **PHP, Laravel**
+ 🌱 I’m currently learning **Web development**
 
 💬 Ask me about **PHP, Laravel, React.js... or anything [here](https://github.com/YousefABDELRAZEK/YousefABDELRAZEK/issues)**
 
